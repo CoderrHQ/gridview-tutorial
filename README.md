@@ -1,4 +1,4 @@
-# gird_view_tutorial
+# GridView Tutorial
 
 A new Flutter project.
 
